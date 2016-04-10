@@ -1,0 +1,32 @@
+<%= form_for(champion) do |f| %>
+  <% if champion.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(champion.errors.count, "error") %> prohibited this champion from being saved:</h2>
+
+      <ul>
+      <% champion.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :nazwa %>
+    <%= f.text_field :nazwa %>
+  </div>
+
+  <div class="field">
+    <%= f.label :typ %>
+    <%= f.text_field :typ %>
+  </div>
+
+  <div class="field">
+    <%= f.label :cena %>
+    <%= f.number_field :cena %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

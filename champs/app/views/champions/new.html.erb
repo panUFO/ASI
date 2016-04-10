@@ -1,0 +1,9 @@
+<% if user_signed_in? %>
+<h1>New Champion</h1>
+
+<%= render 'form', champion: @champion %>
+<% else  %>
+	<h5> <u>Aby wprowadzić nowy samochód musisz być zalogowany</u> </h5>
+<% end %>
+
+<%= link_to 'Back', champions_path %>

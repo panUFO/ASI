@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Nazwa:</strong>
+  <%= @champion.nazwa %>
+</p>
+
+<p>
+  <strong>Typ:</strong>
+  <%= @champion.typ %>
+</p>
+
+<p>
+  <strong>Cena:</strong>
+  <%= @champion.cena %>
+</p>
+
+<%= link_to 'Edit', edit_champion_path(@champion) %> |
+<%= link_to 'Back', champions_path %>
