@@ -7,13 +7,8 @@
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
 
-W plikach _README.md_ należy wpisać:
+| Wersja Ruby   | Wersja Rails   | Baza danych |
+|------------|---------|-------------|
+|    2.3.0   | 5.0.0.beta2  | PostgreSQL  |
 
-* wersję języka Ruby (jakakolwiek wersja ~> 2.2)
-* jakiej użyto wersji Rails (tylko wersje ~> 4.2 lub ~> 5.0)
-* jakiej użyto bazy danych
-
-Dane te należy przedstawić w formie tabelki.
-
-Dodatkowo należy napisać (wystarczy jeden akapit)
-jaki problem rozwiązuje aplikacja.
+- Opis aplikacji: League of Legends Champions pozwala na dodawanie , edycje oraz usuwanie championów z gry LOL (ich nazwa, typ oraz cena).
