@@ -1,7 +1,7 @@
 ### Nazwa Zespołu – Kamil Liwiński
 
 1. Zaliczenie:
- - [ ] [League of Legends Champions](zaliczenie)
+ - [ ] [League of Legends Champions](https://github.com/panUFO/ASI/tree/master/champs)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://asi-kliwinski93.c9users.io/)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
