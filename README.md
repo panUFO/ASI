@@ -1,8 +1,8 @@
 ### Nazwa Zespołu – Kamil Liwiński
 
 1. Zaliczenie:
- - [ ] [nazwa aplikacji](zaliczenie)
- - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
+ - [ ] [League of Legends Champions](zaliczenie)
+ - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](https://asi-kliwinski93.c9users.io/)
 1. Egzamin:
  - [ ] [nazwa aplikacji](egzamin)
  - [ ] [link do wdrożonej na zewnętrznym serwerze aplikacji](/)
